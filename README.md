@@ -1,4 +1,9 @@
-# 理发管理系统
+# 理发管理系统1
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**理发**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -29,32 +34,32 @@
 
 ### 4.1 登录与注册
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292021379.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202205292021379.jpg)
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292021476.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/202205292021476.jpg)
 
 ### 4.2 用户模块
 
-![用户预约](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292021339.jpg)
+![用户预约](https://www.codeshop.fun/Typora-Images/202205292021339.jpg)
 
-![用户-预约查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292021609.jpg)
+![用户-预约查询](https://www.codeshop.fun/Typora-Images/202205292021609.jpg)
 
 用户可以预约理发，也可以根据条件筛选查询理发历史记录
 
 
 ### 4.3 管理员模块
 
-![管理员-理发管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292022623.jpg)
+![管理员-理发管理](https://www.codeshop.fun/Typora-Images/202205292022623.jpg)
 
-![管理员-理发类型管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292023520.jpg)
+![管理员-理发类型管理](https://www.codeshop.fun/Typora-Images/202205292023520.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292023671.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202205292023671.jpg)
 
-![管理员-员工管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292023559.jpg)
+![管理员-员工管理](https://www.codeshop.fun/Typora-Images/202205292023559.jpg)
 
-![管理员-用户金额管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292023679.jpg)
+![管理员-用户金额管理](https://www.codeshop.fun/Typora-Images/202205292023679.jpg)
 
-![管理员-用户消费扣减](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205292023340.jpg)
+![管理员-用户消费扣减](https://www.codeshop.fun/Typora-Images/202205292023340.jpg)
 
 用户管理：管理员可以根据姓名和电话搜索用户信息，并能够增删改
 
@@ -68,13 +73,5 @@
 
 ### 4.4 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208152132297.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ： “**理发**”   
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202208152132297.jpg)
 
